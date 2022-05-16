@@ -15,12 +15,12 @@ Trong folder src có:
 
 ## Overview
 Kết quả của chương trình kiểm thử:  
-- Pass: 14 test
+- Passed: 14 test
 - Phát hiện 7 test lỗi  
 
 ![image](https://user-images.githubusercontent.com/79621768/168628569-7a2b3bc8-a9e3-42cd-a6b4-49a3075451f5.png)
 
 ## Summary
 - Kiểm thử phân hoạch đầu vào phát hiện được lỗi: Invalid Input của cả weight và height.
-- Kiểm thử phân hoạch đầu ra phát hiện được lỗi: Invalid Input và lỗi trả về kết quả sai.
+- Kiểm thử phân hoạch đầu ra phát hiện được lỗi: Invalid Input (không rõ của weight hay height) và lỗi trả về kết quả sai.
 - Kiểm thử giá trị biên phát hiện được lỗi: Invalid Input của cả weight và height.
